@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "",
+  "sourceRoot": "",
+  "sources": [
+    "/assets/source_maps/app/assets/javascripts/controllers/test_ctrl.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,EAAA,OAAO,CAAC,MAAR,CAAe,SAAf,CAAyB,CAAC,UAA1B,CAAqC,UAArC,EAAiD,SAAC,MAAD,GAAA;WAC/C,MAAM,CAAC,IAAP,GAAc,OADiC;EAAA,CAAjD,CAAA,CAAA;AAAA"
+}

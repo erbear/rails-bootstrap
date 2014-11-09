@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "",
+  "sourceRoot": "",
+  "sources": [
+    "/assets/source_maps/app/assets/javascripts/controllers/pages_ctrl.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,EAAA,OAAO,CAAC,MAAR,CAAe,WAAf,CAA2B,CAAC,UAA5B,CAAuC,WAAvC,EAAoD,SAAC,MAAD,GAAA;WAClD,MAAM,CAAC,IAAP,GAAc,cADoC;EAAA,CAApD,CAAA,CAAA;AAAA"
+}

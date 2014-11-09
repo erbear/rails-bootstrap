@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "",
+  "sourceRoot": "",
+  "sources": [
+    "/assets/source_maps/app/assets/javascripts/controllers/article_ctrl.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,EAAA,OAAO,CAAC,MAAR,CAAe,aAAf,CAA6B,CAAC,UAA9B,CAAyC,aAAzC,EAAwD,SAAC,MAAD,EAAS,YAAT,EAAuB,OAAvB,GAAA;WACtD,OAAO,CAAC,IAAR,CAAa,YAAY,CAAC,EAA1B,CAA6B,CAAC,IAA9B,CAAmC,SAAC,QAAD,GAAA;aACjC,MAAM,CAAC,OAAP,GAAiB,QAAQ,CAAC,KADO;IAAA,CAAnC,EADsD;EAAA,CAAxD,CAAA,CAAA;AAAA"
+}

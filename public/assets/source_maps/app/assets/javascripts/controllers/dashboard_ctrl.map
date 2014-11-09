@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "",
+  "sourceRoot": "",
+  "sources": [
+    "/assets/source_maps/app/assets/javascripts/controllers/dashboard_ctrl.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,EAAA,OAAO,CAAC,MAAR,CAAe,aAAf,CAA6B,CAAC,UAA9B,CAAyC,eAAzC,EAA0D,SAAC,MAAD,EAAS,OAAT,GAAA;WACxD,OAAO,CAAC,KAAR,CAAA,CAAe,CAAC,IAAhB,CAAqB,SAAC,QAAD,GAAA;aACnB,MAAM,CAAC,QAAP,GAAkB,QAAQ,CAAC,KADR;IAAA,CAArB,EADwD;EAAA,CAA1D,CAAA,CAAA;AAAA"
+}

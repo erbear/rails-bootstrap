@@ -1,0 +1,28 @@
+doctype html
+html ng-app="TestApp"
+  head
+    meta charset="utf-8"
+
+    title AngularjsAndRailsMarriage
+    = stylesheet_link_tag 'application', media: 'all'
+    = csrf_meta_tags
+  body
+    h1 Sample App Main Page
+    - if user_signed_in?
+        .title
+        li= link_to 'Edit profile'.html_safe, edit_user_registration_path, method: :delete
+        li= button_to 'Logout', destroy_user_session_path, method: :delete
+        'Logged in as #{current_user.email}
+    - else
+        .title_else
+        li= link_to 'Sign up'.html_safe, new_user_registration_path
+        li= link_to 'Login'.html_safe, new_user_session_path
+
+
+
+    = yield
+
+    = javascript_include_tag 'application'
+    = js_env
+
+
